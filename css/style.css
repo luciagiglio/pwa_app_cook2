@@ -1,0 +1,150 @@
+body {
+  font-family: 'Lato';
+  border-color: #ff5e00d3;
+  background: linear-gradient(0deg, #f5e9e2 15%, #ff6701 100%);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Catamaran';
+  font-weight: 800 !important;
+  
+}
+
+.btn-xl {
+  text-transform: uppercase;
+  padding: 1.5rem 3rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+}
+
+.bg-black {
+  background-color: rgba(0, 0, 0, 0.658) !important;
+}
+
+.rounded-pill {
+  border-radius: 5rem;
+}
+
+.navbar-custom {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-custom .navbar-brand {
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
+}
+
+.navbar-custom .navbar-nav .nav-item .nav-link {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+}
+/*--------------------header--------------------------------*/
+header.masthead {
+  background-image: url(../img/louis-hansel-0sYLBZjgTTw-unsplash.jpg);
+  position: relative;
+  overflow: hidden;
+  padding-top:30% ;
+  padding-bottom: 16rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+}
+@media (min-width: 992px) {
+  header.masthead {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+  }
+}
+
+header.masthead .masthead-content .masthead-heading {
+  font-size: 6rem;
+}
+
+header.masthead .masthead-content .masthead-subheading {
+  font-size: 4rem;
+}
+
+
+/*------------------------------------------------------------ */
+
+.sep{
+padding-bottom: 10rem;
+}
+
+
+.bg-primary {
+  background-color: #ee0909e3 !important;
+}
+
+.btn-primary {
+  background-color: #ff7b00;
+  border-color: #ff5e00d3;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #ff5e00 !important;
+  border-color: #ff5e00d3 !important;
+}
+
+.btn-primary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(238, 185, 9, 0.5);
+}
+/*
+.carousel-inner img{
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  
+}*/
+.slide{
+  background-color: rgba(255, 102, 0, 0.253);
+  
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.slide img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height:auto;
+}
+
+.About{
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  text-align: center;
+}
+
+
+footer img{
+  margin-top: 1rem;
+  display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  
+}
+
+footer img:hover{
+  border-radius: 1rem;
+ background-color: #ff7b00;
+}
+
