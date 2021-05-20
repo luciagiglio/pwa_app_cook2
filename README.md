@@ -12,4 +12,7 @@ Tecnologías utilizadas:
 •	Lighthouse(herramientas de desarrollador del browser para auditar)
 •	Firebase (deploy de la pwa)
 •	Html, css, javascript(front-end)
-•	Bootstrap (framework
+•	Bootstrap
+
+
+Prueba de la pagina: https://lustrous-acumen-309419.web.app/
