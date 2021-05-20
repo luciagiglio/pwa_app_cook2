@@ -1,8 +1,7 @@
 # pwa_app_cook2
 
 Trabajo Integrador del Módulo "Programación para Dispositivos Móviles".
-
-Progresive web app.
+Objetivo: Conocer las características de una progresive web app e implementarlas en un ejemplo sencillo.
 
 Aplicación informativa para empresa. (Textos, fotos, info de contacto, redes sociales).
 Nombre de la empresa: The chef.
