@@ -14,4 +14,4 @@ Tecnologías utilizadas:
 •	Bootstrap
 
 
-Prueba de la pagina: https://lustrous-acumen-309419.web.app/
+Sitio: https://lustrous-acumen-309419.web.app/
