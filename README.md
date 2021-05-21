@@ -1,13 +1,13 @@
 # pwa_app_cook2
 
-Trabajo Integrador del Módulo "Programación para Dispositivos Móviles".
+Trabajo para "Programación para Dispositivos Móviles".
 Objetivo: Conocer las características de una progresive web app e implementarlas en un ejemplo sencillo.
 
 Aplicación informativa para empresa. (Textos, fotos, info de contacto, redes sociales).
 Nombre de la empresa: The chef.
 Tecnologías utilizadas:
 •	Visual studio code
-•	Live server (extensión en visual stuido code)
+•	Live server (plugin en visual studio code)
 •	Lighthouse(herramientas de desarrollador del browser para auditar)
 •	Firebase (deploy de la pwa)
 •	Html, css, javascript(front-end)
